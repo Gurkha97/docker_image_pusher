@@ -1,3 +1,7 @@
+1panel/openresty:1.21.4.3-2-2-focal
+
+halohub/halo-pro:2.15.2
+
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
